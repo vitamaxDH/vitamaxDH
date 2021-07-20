@@ -9,11 +9,11 @@ public class DaehanChoi {
     }
 }
 ```
-FirstName : **Daehan** <br/>
+### WHO AM I ?
+>FirstName : **Daehan** <br/>
 LastName : **Choi** <br/>
 NickName : **VitaMax**
 
-### WHO AM I ?
 * Currently working for a start-up company, [`Try { catch }`](https://www.trycatch.kr/) in the Seoul Metropolitan area of South Korea. <br/>
 Hoping to connect with other like-minded individuals. <br/>
 I have a lot of interest in programming, ranging from `Computer science`(such as Data structure), `Operating system`(Linux) and `Programming languages` (such as Java, Kotlin and so forth). <br/>
