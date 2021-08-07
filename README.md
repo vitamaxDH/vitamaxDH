@@ -10,19 +10,19 @@ public class DaehanChoi {
 }
 ```
 ### WHO AM I ?
->FirstName : **Daehan** <br/>
-LastName : **Choi** <br/>
-NickName : **VitaMax**
+* Currently working for a start-up company, [`Try { catch }`](https://www.trycatch.kr/) in the Seoul Metropolitan area of South Korea.
+* Hoping to connect with other like-minded individuals.
+* I have a lot of interest in programming, ranging from `computer science`(such as Data structure), `operating system`specifically Linux and `programming languages` (such as Java, Kotlin and so forth).
+* I am a quite extroverted person so it can benefit me in the workplace to create a positive atmosphere as a team member.
+* In my free time, I often study because I am very self-motivated to improve my skills and learn more about things related to programming concepts.
+* I am fond of sharing my knowledge with others.
 
-* Currently working for a start-up company, [`Try { catch }`](https://www.trycatch.kr/) in the Seoul Metropolitan area of South Korea. <br/>
-Hoping to connect with other like-minded individuals. <br/>
-I have a lot of interest in programming, ranging from `Computer science`(such as Data structure), `Operating system`(Linux) and `Programming languages` (such as Java, Kotlin and so forth). <br/>
-I am a quite extroverted person so it can benefit me in the workplace to create a positive atmosphere as a team member. <br/>
-In my free time, I often study because I am very self-motivated to improve my skills and learn more about things related to programming concepts.
+### Education History
+> * `2021.03` - `2023.02` : [Korea National Open University](https://www.knou.ac.kr), Bachelor's degree, Computer Science
+> * `2019.12` - `2020.06` : Software Development and Application with AI uitilzation course
 
-* `2019.12` - `2020.06` : `Software Development and Application with AI uitilzation course`
-<br/>
 
+<br>
 
 <p align="center">
     
@@ -39,7 +39,7 @@ In my free time, I often study because I am very self-motivated to improve my sk
 ## Wanna know more about me ?
 
 ### [Velog](https://velog.io/@hellonewtry) <br/>
-### [Linkedin](https://www.linkedin.com/in/daehan-choi-113676131/)
+### [LinkedIn](https://www.linkedin.com/in/daehan-choi-113676131/)
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=vitamaxDH&theme=tokyonight"/></p>
 
