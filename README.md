@@ -4,9 +4,9 @@
 ## Hello World 👋
 ```java
 public class DaehanChoi {
-    public static void main(String[] args) {
-        System.out.println("Hello World!");
-    }
+    String name = "최대한";
+    int age = 30;
+    String[] skillSets = {"Java", "Kotlin", "JavaScript"};
 }
 ```
 ### WHO AM I ?
