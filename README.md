@@ -10,7 +10,7 @@ public class DaehanChoi {
 }
 ```
 ### WHO AM I ?
-* Currently working for a start-up company, [`Try { catch }`](https://www.trycatch.kr/) in the Seoul Metropolitan area of South Korea.
+* Currently working for a start-up company, [`Easi6 (MVL)`](https://mvlchain.io/) in the Seoul Metropolitan area of South Korea.
 * Hoping to connect with other like-minded individuals.
 * I have a lot of interest in programming, ranging from `computer science`(such as Data structure), `operating system`specifically Linux and `programming languages` (such as Java, Kotlin and so forth).
 * I am a quite extroverted person so it can benefit me in the workplace to create a positive atmosphere as a team member.
