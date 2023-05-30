@@ -7,7 +7,14 @@ data class AwesomeDev (
     val name = "최대한",
     val age = 32,
     val skillSets = listOf("Java", "Kotlin", "JavaScript"),
-    val interests = listOf("DB", "Docker", "Network", "Rust", "all kind of topics about programming"),
+    val interests = listOf(
+        "DB",
+        "Docker",
+        "Network",
+        "Rust",
+        "eBPF",
+        "all kind of topics about programming"
+    ),
 )
 ```
 ### WHO AM I ?
