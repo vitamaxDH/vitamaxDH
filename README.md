@@ -2,12 +2,13 @@
 <link rel="stylesheet" href="./">
 
 ## Hello World 👋
-```java
-public class DaehanChoi {
-    String name = "최대한";
-    int age = 30;
-    String[] skillSets = {"Java", "Kotlin", "JavaScript"};
-}
+```kotlin
+data class AwesomeDev (
+    val name = "최대한",
+    val age = 32,
+    val skillSets = listOf("Java", "Kotlin", "JavaScript"),
+    val interests = listOf("DB", "Docker", "Network", "Rust", "all kind of topics about programming"),
+)
 ```
 ### WHO AM I ?
 * Currently working for a start-up company, [`Easi6 (MVL)`](https://mvlchain.io/) in the Seoul Metropolitan area of South Korea.
