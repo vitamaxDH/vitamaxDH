@@ -44,6 +44,8 @@ data class AwesomeDev (
 
 ## Projects
 ### 1. YouTube Quality Shortcut
+- 02/08/2024 ~ 02/09/2024 (2 days)
+- https://github.com/vitamaxDH/youtube-quality-shortcut
 - https://chromewebstore.google.com/detail/youtube-quality-shortcut/idcemhhjdleodchiihagkfehahofmibc
 
 ## Wanna know more about me ?
