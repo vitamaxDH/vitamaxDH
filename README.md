@@ -5,7 +5,7 @@
 ```kotlin
 data class AwesomeDev (
     val name = "최대한",
-    val age = 31,
+    val age = 32,
     val skillSets = listOf("Kotlin", "Java", "JavaScript"),
     val interests = listOf(
         "DB",
